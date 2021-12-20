@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin Harrison.
-- 👀 I’m interested in frontend and backend web development.
+- 👀 I’m interested in frontend web development.
 - 🌱 I’m currently learning software engineering management and distribution for application publication.
 - 📫 You can reach me at jth9819@gmail.com.
 
